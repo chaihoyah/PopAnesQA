@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local package state
+.venv/
+venv/
+env/
+.conda/
+*.egg-info/
+build/
+dist/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private, licensed, or separately distributed data
+data/raw/**
+!data/raw/README.md
+data/external_knowledge/**
+
+# Generated intermediate data and model artifacts
+*.pkl
+*.pickle
+*.parquet
+*.arrow
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+
+# Experiment outputs, caches, and asynchronous API work directories
+/cache/
+/caches/
+/output/
+/outputs/
+/results/
+/runs/
+/work/
+/work_dir/
+**/.cache/
+**/batch_work/
+**/raw_responses/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
