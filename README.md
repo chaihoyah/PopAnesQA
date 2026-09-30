@@ -184,5 +184,15 @@ judgment or local clinical guidance.
 
 ## Citation
 
-Please cite the accompanying PopAnesQA paper. The final bibliographic entry
-can be added here when the paper record is public.
+If you use PopAnesQA or this codebase, please cite:
+
+```bibtex
+@inproceedings{shin2026characterizing,
+  title={Characterizing Population Gaps in Clinical Decision-Making: A Guideline-Based Benchmark and Population-Aware Retrieval Analysis in Anesthesiology},
+  author={Shin, Chaiho and Park, Jung-Bin and Kim, Kwangsoo and Kim, Hee-Soo},
+  booktitle={Machine Learning for Healthcare Conference},
+  pages={1791--1833},
+  year={2026},
+  organization={PMLR}
+}
+```
