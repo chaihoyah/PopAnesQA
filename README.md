@@ -1,8 +1,8 @@
 # PopAnesQA
 
-> 🎉 **News:** Our paper has been accepted to **MLHC 2026**. The PopAnesQA
-> dataset is now available on
-> [Hugging Face](https://huggingface.co/datasets/BMILab/PopAnesQA).
+> 🎉 **News:** Our paper has been published in **Proceedings of Machine Learning Research (PMLR), Volume 340**.
+> The paper is available at [PMLR](https://proceedings.mlr.press/v340/shin26a.html), and the PopAnesQA
+> dataset is available on [Hugging Face](https://huggingface.co/datasets/BMILab/PopAnesQA).
 
 PopAnesQA is a population-aware anesthesiology question-answering benchmark
 and evaluation pipeline. The project studies clinical questions for which the
